@@ -10,7 +10,7 @@ class Identification;
 class Identification : public QDialog
 {
     Q_OBJECT
-
+//test
 public:
     explicit Identification(QWidget *parent = 0);
     ~Identification();
